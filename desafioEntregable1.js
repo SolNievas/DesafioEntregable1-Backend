@@ -70,22 +70,22 @@ const productManager = new ProductManager();
 console.log(productManager.getProducts()); 
 
 // const producto = {
- //   title: "Producto prueba",
- //   description: "Este es un producto prueba",
- //   price: 200,
- //   thumbnail: "Sin imagen",
- //   code: "abc123",
- //   stock: 25
- // };
+//   title: "Producto prueba",
+//   description: "Este es un producto prueba",
+//   price: 200,
+//   thumbnail: "Sin imagen",
+//   code: "abc123",
+//   stock: 25
+// };
 
 // productManager.addProduct(product);
 // console.log(productManager.getProducts());
 
 
- // productManager.addProduct(product); 
+// productManager.addProduct(product); 
 
- // try {
- //     console.log(productManager.getProductById(2));
+// try {
+//     console.log(productManager.getProductById(2));
 //   } catch (error) {
 //     console.log(error.message);
 //  }
